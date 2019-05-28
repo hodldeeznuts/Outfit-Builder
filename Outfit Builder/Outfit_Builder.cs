@@ -46,7 +46,7 @@ namespace Outfit_Builder
                 outfitAssignedToPawn = component.CreateNewOutfit(pawn);
             }
 
-            outfitAssignedToPawn.filter = new ThingFilter();
+            outfitAssignedToPawn.filter.SetDisallowAll();
 
 
             foreach (Apparel apparel in pawn.apparel.WornApparel)
