@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Outfit Builder\Outfit Builder.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Outfit Builder\Outfit Builder.pdb
+C:\Users\donav\source\repos\Outfit Builder\Outfit Builder\obj\Release\Outfit Builder.csprojAssemblyReference.cache
+C:\Users\donav\source\repos\Outfit Builder\Outfit Builder\obj\Release\Outfit Builder.csproj.CoreCompileInputs.cache
+C:\Users\donav\source\repos\Outfit Builder\Outfit Builder\obj\Release\Outfit Builder.csproj.CopyComplete
+C:\Users\donav\source\repos\Outfit Builder\Outfit Builder\obj\Release\Outfit Builder.dll
+C:\Users\donav\source\repos\Outfit Builder\Outfit Builder\obj\Release\Outfit Builder.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Outfit Builder\About\About.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Outfit Builder\About\Preview.png

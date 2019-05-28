@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>Outfit Builder</name>
+  <author>hodlhodl</author>
+  <url />
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>Reset forced apparel creates a new unique outfit policy per pawn.</description>
+</ModMetaData>
